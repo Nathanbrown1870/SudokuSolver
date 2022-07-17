@@ -1,2 +1,2 @@
 # SudokuSolver
-A Program to play and solve any Sudoku
+A program to play and solve any Sudoku
